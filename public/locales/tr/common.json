@@ -840,7 +840,6 @@
         "species": "Türler"
     },
     "gitea": {
-        "repos": "Depolar",
         "notifications": "Bildirimler",
         "issues": "Sorunlar",
         "pulls": "Değişiklik İstekleri"

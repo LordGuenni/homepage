@@ -840,7 +840,6 @@
         "species": "Druhy"
     },
     "gitea": {
-        "repos": "Úložiská",
         "notifications": "Oznámenia",
         "issues": "Problémy",
         "pulls": "Pull requesty"
